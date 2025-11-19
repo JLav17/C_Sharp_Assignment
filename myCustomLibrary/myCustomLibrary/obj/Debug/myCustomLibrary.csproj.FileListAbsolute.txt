@@ -1,0 +1,6 @@
+F:\Mix-up\Csharp Lab\myCustomLibrary\myCustomLibrary\bin\Debug\myCustomLibrary.dll
+F:\Mix-up\Csharp Lab\myCustomLibrary\myCustomLibrary\bin\Debug\myCustomLibrary.pdb
+F:\Mix-up\Csharp Lab\myCustomLibrary\myCustomLibrary\obj\Debug\myCustomLibrary.csproj.AssemblyReference.cache
+F:\Mix-up\Csharp Lab\myCustomLibrary\myCustomLibrary\obj\Debug\myCustomLibrary.csproj.CoreCompileInputs.cache
+F:\Mix-up\Csharp Lab\myCustomLibrary\myCustomLibrary\obj\Debug\myCustomLibrary.dll
+F:\Mix-up\Csharp Lab\myCustomLibrary\myCustomLibrary\obj\Debug\myCustomLibrary.pdb

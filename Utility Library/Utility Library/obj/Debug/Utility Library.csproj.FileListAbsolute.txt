@@ -1,0 +1,6 @@
+F:\Mix-up\Csharp Lab\Utility Library\Utility Library\bin\Debug\Utility Library.dll
+F:\Mix-up\Csharp Lab\Utility Library\Utility Library\bin\Debug\Utility Library.pdb
+F:\Mix-up\Csharp Lab\Utility Library\Utility Library\obj\Debug\Utility Library.csproj.AssemblyReference.cache
+F:\Mix-up\Csharp Lab\Utility Library\Utility Library\obj\Debug\Utility Library.csproj.CoreCompileInputs.cache
+F:\Mix-up\Csharp Lab\Utility Library\Utility Library\obj\Debug\Utility Library.dll
+F:\Mix-up\Csharp Lab\Utility Library\Utility Library\obj\Debug\Utility Library.pdb

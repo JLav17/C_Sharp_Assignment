@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Mix-up\\Csharp Lab\\myCustomLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19CFFB6-0EBC-4BE3-8948-1A22F252F200}|TestApp\\TestApp.csproj|f:\\mix-up\\csharp lab\\mycustomlibrary\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19CFFB6-0EBC-4BE3-8948-1A22F252F200}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D38B83-3148-49F3-877C-FFDD2DB542D0}|myCustomLibrary\\myCustomLibrary.csproj|f:\\mix-up\\csharp lab\\mycustomlibrary\\mycustomlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D38B83-3148-49F3-877C-FFDD2DB542D0}|myCustomLibrary\\myCustomLibrary.csproj|solutionrelative:mycustomlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\myCustomLibrary\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\myCustomLibrary\\TestApp\\Program.cs*",
+              "RelativeToolTip": "TestApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:47:23.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\myCustomLibrary\\myCustomLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "myCustomLibrary\\Class1.cs",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\myCustomLibrary\\myCustomLibrary\\Class1.cs",
+              "RelativeToolTip": "myCustomLibrary\\Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:49:06.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

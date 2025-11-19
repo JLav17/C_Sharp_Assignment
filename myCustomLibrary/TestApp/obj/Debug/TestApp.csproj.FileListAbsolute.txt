@@ -1,0 +1,10 @@
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\bin\Debug\TestApp.exe.config
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\bin\Debug\TestApp.exe
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\bin\Debug\TestApp.pdb
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\bin\Debug\myCustomLibrary.dll
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\bin\Debug\myCustomLibrary.pdb
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\obj\Debug\TestApp.csproj.Up2Date
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\obj\Debug\TestApp.exe
+F:\Mix-up\Csharp Lab\myCustomLibrary\TestApp\obj\Debug\TestApp.pdb

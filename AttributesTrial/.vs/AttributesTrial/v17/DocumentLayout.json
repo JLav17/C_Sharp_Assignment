@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|f:\\mix-up\\csharp lab\\attributestrial\\attributestrial\\fetchcustomattributevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|solutionrelative:attributestrial\\fetchcustomattributevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|f:\\mix-up\\csharp lab\\attributestrial\\attributestrial\\attributestrial.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|solutionrelative:attributestrial\\attributestrial.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|f:\\mix-up\\csharp lab\\attributestrial\\attributestrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|solutionrelative:attributestrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|f:\\mix-up\\csharp lab\\attributestrial\\attributestrial\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|solutionrelative:attributestrial\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|f:\\mix-up\\csharp lab\\attributestrial\\attributestrial\\usingcustomattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|solutionrelative:attributestrial\\usingcustomattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|f:\\mix-up\\csharp lab\\attributestrial\\attributestrial\\customattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|solutionrelative:attributestrial\\customattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|f:\\mix-up\\csharp lab\\attributestrial\\attributestrial\\attributestrial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8B2685F-F334-4D73-9C78-137D2B9B4A64}|AttributesTrial\\AttributesTrial.csproj|solutionrelative:attributestrial\\attributestrial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FetchCustomAttributeValues.cs",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\FetchCustomAttributeValues.cs",
+              "RelativeDocumentMoniker": "AttributesTrial\\FetchCustomAttributeValues.cs",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\FetchCustomAttributeValues.cs",
+              "RelativeToolTip": "AttributesTrial\\FetchCustomAttributeValues.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:56:40.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttributesTrial",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\AttributesTrial.csproj",
+              "RelativeDocumentMoniker": "AttributesTrial\\AttributesTrial.csproj",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\AttributesTrial.csproj",
+              "RelativeToolTip": "AttributesTrial\\AttributesTrial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T08:35:04.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsingCustomAttribute.cs",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\UsingCustomAttribute.cs",
+              "RelativeDocumentMoniker": "AttributesTrial\\UsingCustomAttribute.cs",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\UsingCustomAttribute.cs",
+              "RelativeToolTip": "AttributesTrial\\UsingCustomAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:47:51.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomAttribute.cs",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\CustomAttribute.cs",
+              "RelativeDocumentMoniker": "AttributesTrial\\CustomAttribute.cs",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\CustomAttribute.cs",
+              "RelativeToolTip": "AttributesTrial\\CustomAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:35:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttributesTrial",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\AttributesTrial.csproj",
+              "RelativeDocumentMoniker": "AttributesTrial\\AttributesTrial.csproj",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\AttributesTrial.csproj",
+              "RelativeToolTip": "AttributesTrial\\AttributesTrial.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T08:31:30.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\Class1.cs",
+              "RelativeDocumentMoniker": "AttributesTrial\\Class1.cs",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\Class1.cs",
+              "RelativeToolTip": "AttributesTrial\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T08:14:39.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\Program.cs",
+              "RelativeDocumentMoniker": "AttributesTrial\\Program.cs",
+              "ToolTip": "F:\\Mix-up\\Csharp Lab\\AttributesTrial\\AttributesTrial\\Program.cs",
+              "RelativeToolTip": "AttributesTrial\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:51:18.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

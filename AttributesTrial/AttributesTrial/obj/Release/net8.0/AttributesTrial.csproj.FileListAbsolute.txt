@@ -1,0 +1,15 @@
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\bin\Release\net8.0\AttributesTrial.exe
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\bin\Release\net8.0\AttributesTrial.deps.json
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\bin\Release\net8.0\AttributesTrial.runtimeconfig.json
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\bin\Release\net8.0\AttributesTrial.dll
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\bin\Release\net8.0\AttributesTrial.pdb
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.AssemblyInfoInputs.cache
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.AssemblyInfo.cs
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.csproj.CoreCompileInputs.cache
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.sourcelink.json
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.dll
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\refint\AttributesTrial.dll
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.pdb
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\AttributesTrial.genruntimeconfig.cache
+F:\Mix-up\Csharp Lab\AttributesTrial\AttributesTrial\obj\Release\net8.0\ref\AttributesTrial.dll
